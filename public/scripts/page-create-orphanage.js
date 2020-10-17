@@ -88,3 +88,17 @@ function toggleSelect(event){
     input.value = button.dataset.value;
 
 }
+
+function validate(event){
+    const lat = document.querySelector('[name=lat]').value
+    const lng = document.querySelector('[name=lng]').value
+    console.log(lat)
+    console.log(lng)
+    //verifcar de lat e lng
+    if(lat == "" && lng == ""){
+        //não envia o formulário
+        event.preventDefault()
+        alert('Selecione um ponto no mapa')
+    }
+    
+}
