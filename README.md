@@ -13,7 +13,7 @@
 
 ## Description
 
-An application to help users to organize visits to orphanages near them.
+A web application to help users to organize visits to orphanages near them.
 
 ## Features
 
@@ -26,7 +26,6 @@ An application to help users to organize visits to orphanages near them.
 ## Technologies
 
 - [x] [React](https://react.dev/)
-- [x] [Typescript](https://www.typescriptlang.org/)
 - [x] [Express](https://expressjs.com/pt-br/)
 - [x] [Leaflet](https://leafletjs.com/)
 - [x] [sqlite-async](https://www.npmjs.com/package/sqlite-async)
