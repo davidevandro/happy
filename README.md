@@ -30,6 +30,7 @@ An application to help users to organize visits to orphanages near them.
 - [x] [Express](https://expressjs.com/pt-br/)
 - [x] [Leaflet](https://leafletjs.com/)
 - [x] [sqlite-async](https://www.npmjs.com/package/sqlite-async)
+- [x] [Handlebars](https://handlebarsjs.com/) 
 
 ## Layout
 
